@@ -21,4 +21,6 @@ print(ratings[0])
 #ratings.append(7.5)
 #genres.append('Thriller')
 
-
+movies.append('Titanic')
+ratings.append(7.9)
+genres.append('Action')
